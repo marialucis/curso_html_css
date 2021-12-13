@@ -1,8 +1,6 @@
 Arquivos com codigo html e css
 Testes serão realizados no localhost
 
-<<<<<<< HEAD
+
 Criar cadastro login/senha
-=======
-Criar login/senha
->>>>>>> 8edd87e38c423dcc0474ae80940432d8d1245fa6
+
