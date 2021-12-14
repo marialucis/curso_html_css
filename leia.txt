@@ -1,6 +1,11 @@
-Arquivos com codigo html e css
+Arquivos com codigo html e css aprendidos em curso
 Testes serão realizados no localhost
 
 
+
+Projeto 1- Site tributo a Tony Stark
+
+
+Parte final do projeto!
 Criar cadastro login/senha
 Criar portfolio
