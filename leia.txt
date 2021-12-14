@@ -3,4 +3,4 @@ Testes serão realizados no localhost
 
 
 Criar cadastro login/senha
-Criar portifolio
+Criar portfolio
