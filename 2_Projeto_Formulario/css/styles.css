@@ -1,0 +1,14 @@
+/*estilo da pagina*/
+html{
+    background-color: skyblue;
+}
+
+/*estilo do cabeçalho*/
+.header{
+    font-family: Helvetica;
+    color: red;
+}
+
+
+
+
