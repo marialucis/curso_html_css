@@ -1,3 +1,22 @@
-*{
-    background-color: blanchedalmond;
+/*pag principal*/
+html{
+    background-color: whitesmoke;
+    
+}
+
+
+/*campos de entrada do formulario do tipo texto*/
+input[type=text]{
+    width: 100%;
+    padding: auto;
+    margin: 6px 2px;
+}
+
+/*botao enviar*/
+input[type=submit]{
+    background-color: black;
+    border: none;
+    color: whitesmoke;
+    padding: 10px 20px;
+    margin: 6px 2px;
 }
