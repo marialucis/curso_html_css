@@ -4,8 +4,10 @@ Olá, estou desenvolvendo um simples formulário de cadastro de pessoas com o in
 abordados em estudo sobre desenvolvimento WEB.
 
 ## 
+
 Tecnologias utilizadas:
 <ul>
     <li> HTML</li>
     <li>CSS</li>
     <li>PHP</li>
+</ul>
