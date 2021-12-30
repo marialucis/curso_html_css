@@ -1,16 +1,18 @@
 <?php
-/*recendo os dados dos formularios, variaveis
-*/
+/*recendo os dados dos formulario html*/ 
 
+/*variaveis */
 $nome = $_POST['nome'];
 $cpf = $_POST['cpf'];
+$email = $_POST['email'];
+$genero = $_POST['genero'];
 
 
-echo "Dados do Formulario <br>" ;
+echo "Dados do Formulario <br><br>" ;
 
-echo "Nome completo: <br>" .$nome ;
-echo "CPF: " .$cpf;
-
+echo "<br> Nome completo: " .$nome ;
+echo "<br> CPF: " .$cpf;
+echo "<br> E-mail: " .$email;
 
 
 
