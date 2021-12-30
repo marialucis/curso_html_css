@@ -6,8 +6,7 @@ abordados em estudo sobre desenvolvimento WEB.
 ## 
 
 Tecnologias utilizadas:
-<ul>
-    <li> HTML</li>
-    <li>CSS</li>
-    <li>PHP</li>
-</ul>
+
+   * HTML
+   * CSS
+   * PHP
