@@ -1,5 +1,5 @@
 <?php
-/*recendo os dados dos formulario html*/ 
+/*recebendo os dados dos formulario html*/ 
 
 /*variaveis */
 $nome = $_POST['nome'];
@@ -13,6 +13,7 @@ echo "Dados do Formulario <br><br>" ;
 echo "<br> Nome completo: " .$nome ;
 echo "<br> CPF: " .$cpf;
 echo "<br> E-mail: " .$email;
+echo "<br> Genero: ".$genero;
 
 
 

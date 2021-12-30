@@ -14,17 +14,16 @@
     <div class="form">
         <fieldset>
         <form action="dados.php" method="POST">
-                    <!--Campos do formulario-->
+            
                     <legend class= "legenda_formulario" align ="center">Formulario de Cadastro</legend>
-                    Nome Completo *: <input type="text" name="nome" placeholder="Digite o nome completo: "" required> <!--o required para validacao de campo-->
+                    Nome Completo *: <input type="text" name="nome" placeholder="Digite o nome completo: " required> <!--o required para validacao de campo-->
                     <br><br>
                     CPF *: <input type="text" name="cpf" placeholder="Digite o CPF: " required> <!--o required para validacao de campo-->
                     <br><br>
                     E-mail: <input type="text" name="email" placeholder="Digite seu E-mail: ">
                     <br><br>
-                    Genero:
-                    <input type="radio" value="Masculino" name="genero">Masculino 
-                    <input type="radio" value="Feminino" name="genero"> Feminino
+                    Genero: <input type= "radio" value="Masculino" name="genero"> Masculino
+                            <input type="radio" value="Feminino" name="genero"> Feminino
                     <br><br>
                     <input type="submit" value="Enviar">
         </form> 
