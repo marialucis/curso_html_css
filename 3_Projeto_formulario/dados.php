@@ -8,7 +8,7 @@ $email = $_POST['email'];
 $genero = $_POST['genero'];
 
 
-echo "Dados do Formulario <br><br>" ;
+echo "Dados do Formulario <br>" ;
 
 echo "<br> Nome completo: " .$nome ;
 echo "<br> CPF: " .$cpf;
