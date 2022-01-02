@@ -1,8 +1,10 @@
-## Oie, sou a Luci.
+### Oie, sou a Luci.
 Criei esse repo para praticar os conhecimentos adquiridos em cursos e estudos.
 Irei praticar desenvolvendo algumas páginas web simples
 
-## Tecnologias utilizadas:
+##
+
+### Tecnologias utilizadas:
 * Markdown
 * HTML
 * CSS
